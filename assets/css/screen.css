@@ -1,0 +1,28 @@
+@media screen and (max-width: 900px) {
+    p {
+      font-size: 20px;
+      
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    p {
+      font-size: 30px;
+     
+    }
+    body {
+      font-size: 20px;
+    }
+  }
+
+  @media screen and (max-width: 640px) {
+    p {
+      font-size: 40px;
+    
+    }
+
+    body {
+      font-size: 20px;
+    }
+  }
+

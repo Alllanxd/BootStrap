@@ -1,0 +1,61 @@
+a, a:hover {
+    color:#cccccc;
+}
+
+#logo {
+    background-color: #4aaaa5;
+    padding: 10px 10px 10px 10px;
+    margin: 0 0 0 0;
+    color: white;
+}
+
+body {
+    background-color: white;
+    background-image: url("../images/snow.png");
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 1vw;
+}
+
+.c1 {
+    background-color:white;
+}
+
+h2 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    text-align: left;
+}
+
+.footer {
+    height: 10vh;
+    background-color: #666666;
+    border-top: 8px solid #4aaaa5;
+}
+
+.bottom {
+    color: white;
+    font-size: 10px;
+    vertical-align: baseline;
+}
+
+button {
+    background-color: #4aaaa5 !important;
+
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    
+}
+
+h5 {
+    background-color: #4aaaa5;
+    width: 100%;
+    text-align:center;
+}
+
+.card-title {
+    margin-bottom:-1.2rem;
+}
